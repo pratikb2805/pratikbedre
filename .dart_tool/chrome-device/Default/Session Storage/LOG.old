@@ -1,6 +1,7 @@
-2021/12/28-22:10:24.663 e94 Reusing MANIFEST C:\Users\PRATIK~1\AppData\Local\Temp\flutter_tools.a7a6154a\flutter_tools_chrome_device.7bd9e45e\Default\Session Storage/MANIFEST-000001
-2021/12/28-22:10:24.665 e94 Recovering log #17
-2021/12/28-22:10:24.666 e94 Reusing old log C:\Users\PRATIK~1\AppData\Local\Temp\flutter_tools.a7a6154a\flutter_tools_chrome_device.7bd9e45e\Default\Session Storage/000017.log 
-2021/12/28-22:27:53.562 2d18 Level-0 table #21: started
-2021/12/28-22:27:53.565 2d18 Level-0 table #21: 24851 bytes OK
-2021/12/28-22:27:53.566 2d18 Delete type=0 #17
+2021/12/28-23:39:30.159 1980 Reusing MANIFEST C:\Users\PRATIK~1\AppData\Local\Temp\flutter_tools.785ac854\flutter_tools_chrome_device.384fdace\Default\Session Storage/MANIFEST-000001
+2021/12/28-23:39:30.163 1980 Recovering log #20
+2021/12/28-23:39:30.165 1980 Reusing old log C:\Users\PRATIK~1\AppData\Local\Temp\flutter_tools.785ac854\flutter_tools_chrome_device.384fdace\Default\Session Storage/000020.log 
+2021/12/28-23:39:30.170 1980 Delete type=0 #17
+2021/12/28-23:39:42.425 28ec Level-0 table #24: started
+2021/12/28-23:39:42.430 28ec Level-0 table #24: 18907 bytes OK
+2021/12/28-23:39:42.433 28ec Delete type=0 #20
